@@ -176,8 +176,8 @@ Frontend runs on http://localhost:5173
 
  Contact
 
-[Kasoju Aravind]
- se22ucse131@mahindrauniversity.edu.in
+[P.K.L.GANESH]
+ se22ucse197@mahindrauniversity.edu.in
 
 ⸻
 
